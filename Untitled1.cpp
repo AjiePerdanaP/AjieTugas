@@ -15,4 +15,9 @@ bodrex.jenis =" Bodrex 	- Obat Sakit Kepala dan Batuk. ";
 	ultraflu.jenis =" UltraFlu 	- Obat Flu,Batuk,Dan Bersin. ";
 	vicks.jenis =" Vicks 		- Obat Batuk. ";
 	panadol.jenis =" Panadol 	- Obat Sakit Kepala. ";
+
+bodrex.bentuk =" Bentuk Tablet ";
+	ultraflu.bentuk =" Bentuk Tablet ";
+	vicks.bentuk =" Bentuk Cairan";
+	panadol.bentuk =" Bentuk Kapsul";
 }
