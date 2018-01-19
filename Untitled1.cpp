@@ -25,4 +25,12 @@ bodrex.cara	(" 2 x 1 Hari Setelah Makan ");
 	ultraflu.cara	(" 1 x 1 Hari Setelah Makan ");
 	vicks.cara(" 4 x 1 Setelah atau Sebelum Makan");
 	panadol.cara	(" 3 x 1 Hari Setelah Makan ");
+
+}
+
+void obat::cara(string penggunaan){
+		cout<<jenis<<" ";
+		cout<<bentuk<<" ~ ";
+		cout<<penggunaan<<endl;
+	
 }
