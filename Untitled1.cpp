@@ -9,4 +9,5 @@ public:
 	
 };
 int main(){
+obat bodrex, ultraflu, vicks, panadol;
 }
