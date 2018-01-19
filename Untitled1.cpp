@@ -20,4 +20,9 @@ bodrex.bentuk =" Bentuk Tablet ";
 	ultraflu.bentuk =" Bentuk Tablet ";
 	vicks.bentuk =" Bentuk Cairan";
 	panadol.bentuk =" Bentuk Kapsul";
+
+bodrex.cara	(" 2 x 1 Hari Setelah Makan ");
+	ultraflu.cara	(" 1 x 1 Hari Setelah Makan ");
+	vicks.cara(" 4 x 1 Setelah atau Sebelum Makan");
+	panadol.cara	(" 3 x 1 Hari Setelah Makan ");
 }
